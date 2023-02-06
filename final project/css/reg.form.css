@@ -1,0 +1,69 @@
+body{
+    background:url("F:\wallpaperflare.com_wallpaper.jpg");
+   
+   background-size:cover;
+    background-repeat: no-repeat;
+    font-family: anders;
+}
+.regform{
+
+    width: 350px;
+    height: 550px;
+    margin: 250px auto;
+    padding: 10px 20px ;
+    background-color:rgb(255, 255, 255,0.5);
+    color: black;
+    font-size: 25px;
+    border-radius: 10px;
+    
+    transform: scale(.05px);
+    
+  
+
+}
+.regform h3{
+
+    text-align: center;
+    color: black;
+}
+.regform .textlabel{
+    display: block;
+}
+.input input{
+    width: 100%;
+    font-size: 5px; 
+    border: 2px solid red;
+    border-radius: 6px;
+    box-shadow: 2px;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    margin: 2px 2px 5px 5px;
+    
+
+}
+
+.btn{
+    text-align: center;
+
+}
+#button{
+    text-decoration: none;
+   margin: left 5px; 
+   margin-top: 5px;
+   text-align: center;
+   border-radius: 5px;
+   padding: 5px 10px;
+   background-color: red;
+   color: aliceblue;
+   border-color:red;
+  
+   
+}
+.radio input{
+    accent-color:red ;
+    transform: scale(2.5);
+    -ms-transform: scale(2.5);
+    -webkit-transform: scale(2.5);
+
+
+}
